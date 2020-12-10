@@ -1,18 +1,10 @@
-# dotnet-vaquinha-tests
-Projeto Base para Testes - .Net Core  
+# Projeto de Crowdfunding, com Testes unitários, de integração e E2E (End-to-End)
+
+![print](docs/print-mvc.PNG)
+Projeto que implementa uma stack de testes, em um projeto .NET Core de Crowdfunding
 
 ## Digital Innovation One
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+<img src="docs/dio-logo.png" width="100" />
 
-## Eliézer Zarpelão
-[GitHub Timeline](https://elizarp.github.io/timeline/)  
-[Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
-[Github](https://github.com/elizarp) 
-
-## Marcos Freire
-[Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
-[Github](https://github.com/marcosfreire) 
-
-## Slides
-[Slides em PDF](TesteNetCore.pdf)
+[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)
